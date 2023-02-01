@@ -1,0 +1,13 @@
+E:\presentacion\datos\bin\Debug\datos.dll.config
+E:\presentacion\datos\bin\Debug\datos.dll
+E:\presentacion\datos\bin\Debug\datos.pdb
+E:\presentacion\datos\bin\Debug\datos.xml
+E:\presentacion\datos\bin\Debug\entidad.dll
+E:\presentacion\datos\bin\Debug\entidad.pdb
+E:\presentacion\datos\bin\Debug\entidad.xml
+E:\presentacion\datos\obj\Debug\datos.vbprojResolveAssemblyReference.cache
+E:\presentacion\datos\obj\Debug\datos.Resources.resources
+E:\presentacion\datos\obj\Debug\datos.vbproj.GenerateResource.Cache
+E:\presentacion\datos\obj\Debug\datos.dll
+E:\presentacion\datos\obj\Debug\datos.xml
+E:\presentacion\datos\obj\Debug\datos.pdb

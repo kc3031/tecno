@@ -1,0 +1,19 @@
+c:\users\informatica\documents\visual studio 2015\Projects\presentacion\presentacion\bin\Debug\presentacion.exe.config
+E:\presentacion\presentacion\bin\Debug\presentacion.exe.config
+E:\presentacion\presentacion\bin\Debug\presentacion.exe
+E:\presentacion\presentacion\bin\Debug\datos.dll
+E:\presentacion\presentacion\bin\Debug\entidad.dll
+E:\presentacion\presentacion\bin\Debug\datos.pdb
+E:\presentacion\presentacion\bin\Debug\datos.xml
+E:\presentacion\presentacion\bin\Debug\entidad.pdb
+E:\presentacion\presentacion\bin\Debug\entidad.xml
+E:\presentacion\presentacion\obj\Debug\presentacion.vbprojResolveAssemblyReference.cache
+E:\presentacion\presentacion\obj\Debug\presentacion.MDIParent1.resources
+E:\presentacion\presentacion\obj\Debug\presentacion.Form1.resources
+E:\presentacion\presentacion\obj\Debug\presentacion.Resources.resources
+E:\presentacion\presentacion\obj\Debug\presentacion.vbproj.GenerateResource.Cache
+E:\presentacion\presentacion\obj\Debug\presentacion.exe
+E:\presentacion\presentacion\obj\Debug\presentacion.xml
+E:\presentacion\presentacion\obj\Debug\presentacion.pdb
+E:\presentacion\presentacion\bin\Debug\presentacion.pdb
+E:\presentacion\presentacion\bin\Debug\presentacion.xml

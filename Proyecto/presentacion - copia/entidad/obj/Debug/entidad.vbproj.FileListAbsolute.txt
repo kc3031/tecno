@@ -1,0 +1,10 @@
+E:\presentacion\entidad\bin\Debug\entidad.dll.config
+E:\presentacion\entidad\bin\Debug\entidad.dll
+E:\presentacion\entidad\bin\Debug\entidad.pdb
+E:\presentacion\entidad\bin\Debug\entidad.xml
+E:\presentacion\entidad\obj\Debug\entidad.vbprojResolveAssemblyReference.cache
+E:\presentacion\entidad\obj\Debug\entidad.Resources.resources
+E:\presentacion\entidad\obj\Debug\entidad.vbproj.GenerateResource.Cache
+E:\presentacion\entidad\obj\Debug\entidad.dll
+E:\presentacion\entidad\obj\Debug\entidad.xml
+E:\presentacion\entidad\obj\Debug\entidad.pdb
